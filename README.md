@@ -46,7 +46,7 @@ Bu projede, Flutter ile geliştirilen ve MySQL veritabanına bağlı PHP tabanl�
     - Kullanıcılar, herhangi bir sorun yaşadıklarında uygulama içerisinden sorun bildiriminde bulunabilirler.
 
 ### APK Dosyası:
-[APK Dosyasını indir](https://drive.google.com/file/d/1pNl1QZn5B2i4cr05vimD1JsFT3jjCWk-/view?usp=sharing)
+[APK Dosyasını indir](https://drive.google.com/file/d/15_KPijIyzABFH6um2HLPdEThY9y2nFR1/view?usp=sharing)
 
 ### Demo Hesap Bilgileri:
 Uygulamayı denemek için aşağıdaki hesap bilgilerini kullanabilirsiniz:
@@ -143,7 +143,7 @@ This project is a quiz mobile application developed with Flutter, connected to a
     - Users can report any issues they encounter within the app.
 
 ### APK File:
-[Download APK](https://drive.google.com/file/d/1pNl1QZn5B2i4cr05vimD1JsFT3jjCWk-/view?usp=sharing)
+[Download APK](https://drive.google.com/file/d/15_KPijIyzABFH6um2HLPdEThY9y2nFR1/view?usp=sharing)
 
 ### Demo Account Information:
 You can use the following account details to try out the application:
